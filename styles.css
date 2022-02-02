@@ -1,0 +1,39 @@
+*{
+    margin: 0;padding: 0;
+    
+}
+body{
+    background-color: #F7ECDE;
+    font-family: 'Montserrat', sans-serif;
+}
+.qrcode{
+    box-shadow: 5px 5px 2px 1px rgba(0, 0, 255, .2);
+    margin: 60px auto 0 auto;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 30%;height: fit-content;
+}
+.qrcode-image{
+    width: 200px;height: 200px;
+}
+.qrcode-description{
+    background-color: #fff;
+    font-size: large;
+    text-align: left;
+    margin-left: 25px;
+    line-height: 2;
+}
+.attribution{
+    margin-top: 130px;
+    background-color: #B33030;
+    width: 940px;height: 70px;
+    padding: 20px 0 0 500px;
+    color: #A1B57D;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #A1B57D;
+}
